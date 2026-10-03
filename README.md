@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🍔 FoodTuck Restaurant
 
-## Getting Started
+FoodTuck is a modern and responsive restaurant website built with **Next.js, React, TypeScript and Tailwind CSS**.
 
-First, run the development server:
+The website provides a clean and user-friendly interface for exploring restaurant content, menu items, blog posts and different pages.
+
+## ✨ Features
+
+* 🏠 Home page
+* 🍽️ Menu page
+* 📝 Blog section
+* 📄 Multiple pages
+* 👨‍🍳 About page
+* 🛍️ Shop page
+* 📞 Contact page
+* 🔍 Search functionality
+* 📱 Responsive user interface
+* 🎨 Modern restaurant-focused design
+
+## 🛠️ Technologies Used
+
+* **Next.js**
+* **React.js**
+* **TypeScript**
+* **Tailwind CSS**
+* **SVG**
+
+## 🚀 Getting Started
+
+Clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/Ubaidrazapatni/FoodTuck-Restaurant-Nextjs.git
+
+cd FoodTuck-Restaurant-Nextjs
+
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open `http://localhost:3000` in your browser to view the website.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎯 Project Purpose
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project was developed to practice modern frontend development using Next.js and TypeScript while creating a responsive and visually appealing restaurant website.
 
-## Learn More
+## 📚 What I Learned
 
-To learn more about Next.js, take a look at the following resources:
+Through this project, I gained practical experience in:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Building websites with Next.js
+* Creating reusable React components
+* Working with TypeScript
+* Creating responsive layouts with Tailwind CSS
+* Building multiple website pages
+* Implementing search functionality
+* Working with SVG assets
+* Improving frontend UI and user experience
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🌐 Live Demo
 
-## Deploy on Vercel
+The project is deployed on Vercel.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👨‍💻 Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Ubaid Raza**
+
+Frontend Developer | Next.js | TypeScript | React | Tailwind CSS | Exploring Generative AI
